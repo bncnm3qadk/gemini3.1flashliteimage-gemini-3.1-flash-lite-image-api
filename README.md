@@ -2,7 +2,7 @@
 
 > **default $0.0125** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-24e155)** · **[Get an API key](https://go.apimart.ai/k-87fef5)**
 
 Everything here refers to **gemini-3.1-flash-lite-image** — also written **gemini3.1flashliteimage** or **gemini 3.1 flash lite image**.
 
